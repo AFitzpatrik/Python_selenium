@@ -1,2 +1,3 @@
-https://www.youtube.com/watch?v=wCUXqUHdSkI&list=PLL34mf651faPg74A-vy1TIPWUjYBIJ52n&index=2
-Tutorial for selenium/automation testing
+https://www.youtube.com/watch?v=vCJVFnepECc&list=PLUDwpEzHYYLuW9XEvFEJk2kqsk6HqscI4
+
+API Testing - Python, API

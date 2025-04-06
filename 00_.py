@@ -1,9 +1,2 @@
-https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ
+https://www.youtube.com/watch?v=vCJVFnepECc&list=PLUDwpEzHYYLuW9XEvFEJk2kqsk6HqscI4
 
-
-x = 600
-print(x)
-y = x
-print(y)
-print(id(x))
-print(id(y))
